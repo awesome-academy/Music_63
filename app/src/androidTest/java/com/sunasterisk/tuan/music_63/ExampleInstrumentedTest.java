@@ -1,4 +1,4 @@
-package com.example.tuan.music_63;
+package com.sunasterisk.tuan.music_63;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
